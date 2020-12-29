@@ -30,6 +30,9 @@ I'm Zach Cargill a Python, Javascript and Web Developer. Currently Managing and 
  #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
  #### Github Stats
