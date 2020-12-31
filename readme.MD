@@ -30,6 +30,13 @@ I'm Zach Cargill a Python, Javascript and Web Developer. Currently Managing and 
  #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 34 mins   ████████████▒░░░░░░░░░░░░   48.77 % 
+Markdown     1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Python       1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.20 % 
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
 <!--END_SECTION:waka-->
 
  #### Github Stats
