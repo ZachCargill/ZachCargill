@@ -8,7 +8,7 @@ Hey I'm Zach, a Python and Javascript Developer. Currently Managing and developi
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Radar Scripts** (eCommerce Automation Software) and **Radar AIO** (Account Generation Software).
+- 🔭 I’m currently working on **Radar AIO** (Account Generation Software) and **Radar Scripts** (eCommerce Automation Software).
 - 📫 How to reach me: zach.cargill27@gmail.com.
 
 #### Top Technologies
