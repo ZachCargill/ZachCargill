@@ -1,6 +1,6 @@
 ## Hi I'm Zach <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Zach Cargill a Python, Javascript and Web Developer. Currently Managing and developing [Radar Scripts](https://twitter.com/RadarScripts). I Spend most of time working on and developing for my business or playing video games.
+Hey I'm Zach a Python, Javascript and Web Developer. Currently Managing and developing [Radar AIO](https://twitter.com/Radar_AIO) and [Radar Scripts](https://twitter.com/RadarScripts).
 
 :mailbox: Reach me!
 
@@ -8,8 +8,7 @@ I'm Zach Cargill a Python, Javascript and Web Developer. Currently Managing and 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Radar Scripts** (eCommerce Automation Software).
-- :computer: Most used line of code `print('Please Work')`
+- 🔭 I’m currently working on **Radar Scripts** (eCommerce Automation Software) and **Radar AIO** (Account Generation Software).
 - 📫 How to reach me: zach.cargill27@gmail.com.
 
 #### Top Technologies
