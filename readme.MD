@@ -15,7 +15,7 @@ Hey I'm Zach, a Python and Javascript Developer. Currently Managing and developi
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) ![Typescript Badge](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6) ![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26) ![CSS Badge](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)
+![Python Badge](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) ![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26) ![CSS Badge](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)
 
 #### Business
 - :paperclip: [My Website](https://zachcargill.dev/)
