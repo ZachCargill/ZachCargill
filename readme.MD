@@ -4,7 +4,7 @@ Hey I'm Zach, a Python and Javascript Developer. Currently Managing and developi
 
 :mailbox: Reach me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@SandalDev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SandalDev)](https://twitter.com/SandalDev) [![Mail Badge](https://img.shields.io/badge/-Sandal-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKKHkFHz4UQKYulN3k7uliA) [![Mail Badge](https://img.shields.io/badge/-@zachcargill-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zachcargill) [![Mail Badge](https://img.shields.io/badge/-zachcargill-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zach.cargill27@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@SandalDev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zachcargill_)](https://twitter.com/zachcargill_) [![Mail Badge](https://img.shields.io/badge/-Sandal-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKKHkFHz4UQKYulN3k7uliA) [![Mail Badge](https://img.shields.io/badge/-@zachcargill-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zachcargill) [![Mail Badge](https://img.shields.io/badge/-zachcargill-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zach.cargill27@gmail.com)
 
 <!-- TODO: Add last video link -->
 
