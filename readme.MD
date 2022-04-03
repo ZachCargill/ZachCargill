@@ -26,18 +26,7 @@ Hey I'm Zach, a Python and Javascript Developer. Currently Managing and developi
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SandalDev.SandalDev)
 
- #### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       17 hrs 23 mins  ███████████████████████▓░   94.48 % 
-HTML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-CSS          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-```
-<!--END_SECTION:waka-->
-
- #### Github Stats
+#### Github Stats
  ![ZachCargill's github stats](https://github-readme-stats.vercel.app/api?username=ZachCargill&hide=contribs,prs&theme=tokyonight)
 
 
